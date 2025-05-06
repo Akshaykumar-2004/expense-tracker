@@ -9,7 +9,7 @@ from add_expense import add_expense
 from view_expenses import view_expenses
 from filter_expenses import filter_expenses
 from delete_expense import delete_expense
-from summary import view_summary
+from view_summary import view_summary
 
 # File to store expense data
 EXPENSE_FILE = "expenses.csv"
