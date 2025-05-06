@@ -1,7 +1,7 @@
 import csv
 from collections import defaultdict
 
-def view_expenses(file_path):
+def view_summary(file_path):
     """Displays a summary of expenses from a CSV file with no headers."""
     print("\n EXPENSE SUMMARY") #Shows the heading of view summary
 
